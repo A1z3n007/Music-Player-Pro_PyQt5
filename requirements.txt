@@ -1,0 +1,5 @@
+PyQt5>=5.15.9,<6
+numpy>=1.24
+requests>=2.31.0
+mutagen>=1.47.0
+musicbrainzngs>=0.7.1
